@@ -1,0 +1,5 @@
+{
+    "SAKT_PATH": "E:\\project\\pythonproject\\academic-llm-server\\app\\data\\model\\model.pt",
+    "CHATGLM_6B_PATH": "/home/yangbo/projects/academic-llm-server/resources/chatglm-6b",
+    "GPU_ID": 1
+}

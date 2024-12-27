@@ -1,0 +1,15 @@
+{
+    "ENV": "dev",
+    "APP_DEBUG": false,
+    "APP_DEBUG_FOR_VALIDATOR": false,
+
+    "HTTP_HOST": "0.0.0.0",
+    "HTTP_PORT": 8432,
+
+    "CORS_ORIGINS": ["https://www.scholat.com", "http://localhost:8080"],
+
+    "DB_HOST": "data.scholat.com:3306",
+    "DB_USERNAME": "root",
+    "DB_PASSWORD": "scho1025lat",
+    "DB_NAME": "scholat"
+}
